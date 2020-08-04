@@ -1,7 +1,6 @@
 ###  Welcome! My name is [Lukas Steinbrecher](https://lukstei.com). 
 
 <br />
-<br />
 
 I am a passionate Software Engineer 👨🏼‍💻 based in Vienna 🇦🇹, currently consulting financial institutions at [Senacor](https://senacor.com).
 

@@ -4,17 +4,10 @@
 
 <br />
 <br />
-<br />
 
-I'm based in Vienna 🇦🇹, and a passionate Software Engineer 👨🏼‍💻.
-Currently consulting financial institutions at [Senacor](https://senacor.com).
+I am a passionate Software Engineer 👨🏼‍💻 based in Vienna 🇦🇹, currently consulting financial institutions at [Senacor](https://senacor.com).
 
 If you just want to say hello or ask a question, send me a short message 💌. I am always happy to make new connections.
-
-
-<br />
-<br />
-<br />
 
 <a href="https://at.linkedin.com/in/lukstei">
   <img align="left" alt="Lukas's Linkedin" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

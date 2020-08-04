@@ -3,11 +3,6 @@
 <br />
 <br />
 
-<img src="https://lukstei.com/static/7ac97ea5b44abbb29e4834940af8440e/32ee9/profile-pic.jpg" src="/static/7ac97ea5b44abbb29e4834940af8440e/32ee9/profile-pic.jpg" alt="Lukas Steinbrecher" width="250" height="250" />
-
-<br />
-<br />
-
 I am a passionate Software Engineer 👨🏼‍💻 based in Vienna 🇦🇹, currently consulting financial institutions at [Senacor](https://senacor.com).
 
 If you just want to say hello or ask a question, send me a short message 💌. I am always happy to make new connections.

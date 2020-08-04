@@ -1,16 +1,22 @@
-### Hi there 👋
+###  Welcome! My name is [Lukas Steinbrecher](https://lukstei.com). I'm based in Vienna 🇦🇹.
 
-<!--
-**lukstei/lukstei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Engineer 👨🏼‍💻, currently consulting financial institutions at Senacor.
 
-Here are some ideas to get you started:
+If you just want to say hello or ask a question, send me a short message 💌. I am always eager to make new connections.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://at.linkedin.com/in/lukstei">
+  <img align="left" alt="Lukas's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.xing.com/profile/Lukas_Steinbrecher">
+  <img align="left" alt="Lukas's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
+</a>
+
+<br />
+<br />
+
+
+![picture](https://avatars0.githubusercontent.com/u/292363?s=400&u=8ae45fcbcb54f7fa1863dd9e7731a3fe64c07e29&v=4)
+<br />
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lukstei-github)

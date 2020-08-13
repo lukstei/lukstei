@@ -2,7 +2,7 @@
 
 <br />
 
-I am a passionate Software Engineer 👨🏼‍💻 based in Vienna 🇦🇹, currently consulting financial institutions at [Senacor](https://senacor.com).
+I am a passionate Software Engineer 👨🏼‍💻 based in Vienna 🇦🇹 consulting financial institutions at [Senacor](https://senacor.com).
 
 If you just want to say hello or ask a question, send me a short message 💌. I am always happy to make new connections.
 

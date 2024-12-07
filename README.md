@@ -18,10 +18,3 @@ If you just want to say hello ğŸ‘‹ or ask a question, send me a short message ğŸ
 <br />
 
 Read my blog at [lukstei.com](https://lukstei.com).
-
-
-
-<br />
-<br />
-<br />
-

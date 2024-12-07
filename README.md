@@ -25,8 +25,3 @@ Read my blog at [lukstei.com](https://lukstei.com).
 <br />
 <br />
 
-<br />
-<br />
-<br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lukstei-github)

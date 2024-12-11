@@ -9,9 +9,6 @@ If you just want to say hello ğŸ‘‹ or ask a question, send me a short message ğŸ
 <a href="https://at.linkedin.com/in/lukstei">
   <img align="left" alt="Lukas's Linkedin" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.xing.com/profile/Lukas_Steinbrecher">
-  <img align="left" alt="Lukas's Xing" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
-</a>
 
 <br />
 <br />
